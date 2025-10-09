@@ -1,6 +1,3 @@
-
-
-
 # 💫 Zeyad Mohammed
 
 <div align="center">
@@ -27,29 +24,23 @@
 
 ```typescript
 const zeyad = {
-    name: "Zeyad Mohammed",
-    location: "Sohag, Egypt 🇪🇬",
-    role: "Aspiring Backend Developer",
-    education: "CS Student (Higher Technological Institute)",
-    passion: ["Backend Development", "API Design", "Database Management"],
-    currentFocus: "Building RESTful APIs with Node.js & Express",
-    askMeAbout: ["Node.js", "Express", "MongoDB", "MySQL", "REST APIs"],
-    motto: "Perfection is the enemy of progress. Start small, learn consistently, and ship things."
+  name: 'Zeyad Mohammed',
+  location: 'Sohag, Egypt 🇪🇬',
+  role: 'Aspiring Backend Developer',
+  education: 'CS Student (Higher Technological Institute)',
+  passion: ['Backend Development', 'API Design', 'Database Management'],
+  currentFocus: 'Building RESTful APIs with Node.js & Express',
+  askMeAbout: ['Node.js', 'Express', 'MongoDB', 'MySQL', 'REST APIs'],
+  motto: 'Perfection is the enemy of progress. Start small, learn consistently, and ship things.',
 };
-````
+```
 
 - 🔭 I'm currently building backend projects and improving my API design skills.
-    
 - 🌱 I'm learning best practices for databases (SQL & NoSQL) and using TypeScript on the backend.
-    
 - 👯 I'm looking to collaborate on **Open Source backend projects**.
-    
 - 💬 Ask me about **Node.js, Express, REST APIs, database modeling**.
-    
 - 📫 How to reach me: **zeyadmohammed200493@gmail.com**
-    
-- ⚡ Motto: **Perfection is the enemy of progress. Start small, learn consistently, and ship things. 🚀**
-    
+- ⚡ Motto: **Progress isn’t about speed — it’s about direction. 🚀**
 
 ---
 
@@ -94,7 +85,9 @@ const zeyad = {
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyad-mohammed-dev&theme=nord_dark" width="32.5%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyad-mohammed-dev&theme=nord_dark" width="32.5%">
@@ -106,8 +99,8 @@ const zeyad = {
   </details>
 </div>
 
-
 ---
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -117,29 +110,33 @@ const zeyad = {
     <td width="50%" valign="top">
 
 ### 🌟 [SarahaApp](https://github.com/zeyad-mohammed-dev/SarahaApp)
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=SarahaApp&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="SarahaApp" />
 
-**Anonymous feedback app (Saraha)**  
-- 🚀 Built with JavaScript / Node.js  
-- 🗄️ Stores and displays anonymous messages with a simple UI  
+**Anonymous feedback app (Saraha)**
+
+- 🚀 Built with JavaScript / Node.js
+- 🗄️ Stores and displays anonymous messages with a simple UI
 - 🔒 Ready to extend with auth & moderation
 
     </td>
     <td width="50%" valign="top">
 
 ### 👤 [Profile Repo](https://github.com/zeyad-mohammed-dev/zeyad-mohammed-dev)
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=zeyad-mohammed-dev&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="Profile Repo" />
 
-**Personal profile & portfolio**  
-- 📝 README shows tech stack, featured projects and analytics  
+**Personal profile & portfolio**
+
+- 📝 README shows tech stack, featured projects and analytics
 - 🎯 Focused on backend projects, learning goals and progress
 
-    </td>
-  </tr>
-</table>
+      </td>
+
+    </tr>
+  </table>
 
 </div>
-
 
 <div align="center">
   
@@ -160,6 +157,7 @@ const zeyad = {
 </div>
 
 ---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -186,6 +184,7 @@ const zeyad = {
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -200,32 +199,30 @@ const zeyad = {
 
 ```mermaid
 timeline
-    title My Development Journey
-    2023    : Started Programming Journey
-            : Practiced Problem Solving using C++
-            : Built strong logic & algorithmic thinking
-            : Learned Object-Oriented Programming (OOP) with Python
-    2024    : Explored Frontend Basics (HTML & CSS)
-            : Discovered passion for Backend Development
-    2025    : Shifted focus to Backend with Node.js & Express
-            : Learned Databases (MySQL & MongoDB)
-            : Built RESTful APIs & real-world backend projects
-            : Exploring TypeScript & advanced backend patterns
+    title 🧭 My Development Journey
+    2023    : 💻 Started Programming Journey
+            : 🧩 Practiced Problem Solving using C++
+            : 🧠 Built strong logic & algorithmic thinking
+            : 🐍 Learned Object-Oriented Programming (OOP) with Python
+    2024    : 🌐 Explored Frontend Basics (HTML & CSS)
+            : 💡 Discovered passion for Backend Development
+    2025    : 🚀 Focused on Backend with Node.js & Express
+            : 🗄️ Learned Databases (MySQL & MongoDB)
+            : 🧱 Built RESTful APIs & real-world backend projects
+            : 🔷 Exploring TypeScript & advanced backend patterns
 
 ```
 
-
 ---
+
 📫 Let's Build Something Meaningful Together!
+
 <div align="center">
 💡 "Great things take time — just keep building and improving."
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 💼 Currently focusing on backend development | 🤝 Open to collaboration & learning | 🚀 Always building, one project at a time
 
-
-
-
-
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
 </div>
