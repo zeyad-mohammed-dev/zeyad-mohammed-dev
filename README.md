@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Backend%20Developer;CS%20Student;Building%20APIs%20%26%20Databases;Node.js%20|%20Express%20|%20SQL%20|%20NoSQL;From%20Egypt%20🇪🇬&font=Fira%20Code&center=true&width=500&height=45&color=1f6feb&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Backend%20Developer;CS%20Student;Building%20APIs%20%26%20Databases;Node.js%20|%20Express%20|%20SQL%20|%20NoSQL;From%20Egypt%20🇪🇬&font=Fira%20Code&center=true&width=500&height=45&color=4b8bef&vCenter=true&size=22&pause=1000">
 </div>
 
 <div align="center">
