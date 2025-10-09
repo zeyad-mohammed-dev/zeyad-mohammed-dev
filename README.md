@@ -198,17 +198,17 @@ const zeyad = {
 
 ```mermaid
 timeline
-    title 🧭 My Development Journey
-    2023    : 💻 Started Programming Journey
-            : 🧩 Practiced Problem Solving using C++
-            : 🧠 Built strong logic & algorithmic thinking
-            : 🐍 Learned Object-Oriented Programming (OOP) with Python
-    2024    : 🌐 Explored Frontend Basics (HTML & CSS)
-            : 💡 Discovered passion for Backend Development
-    2025    : 🚀 Focused on Backend with Node.js & Express
-            : 🗄️ Learned Databases (MySQL & MongoDB)
-            : 🧱 Built RESTful APIs & real-world backend projects
-            : 🔷 Exploring TypeScript & advanced backend patterns
+    title My Development Journey
+    2023    : Started Programming Journey
+            : Practiced Problem Solving using C++
+            : Built strong logic & algorithmic thinking
+            : Learned Object-Oriented Programming (OOP) with Python
+    2024    : Explored Frontend Basics (HTML & CSS)
+            : Discovered passion for Backend Development
+    2025    : Shifted focus to Backend with Node.js & Express
+            : Learned Databases (MySQL & MongoDB)
+            : Built RESTful APIs & real-world backend projects
+            : Exploring TypeScript & advanced backend patterns
 
 ```
 
