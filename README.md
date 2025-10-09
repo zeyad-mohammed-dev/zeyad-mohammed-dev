@@ -131,7 +131,6 @@ const zeyad = {
 - 📝 README shows tech stack, featured projects and analytics
 - 🎯 Focused on backend projects, learning goals and progress
 
-      </td>
 
     </tr>
   </table>
