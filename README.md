@@ -20,7 +20,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<img align="right" alt="Coding" width="325" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsYTBwOXgzbXV3ZG16NWUyOGVhd3AxeHpsaGxhYzQ5eXY1ZTY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsYTBwOXgzbXV3ZG16NWUyOGVhd3AxeHpsaGxhYzQ5eXY1ZTY5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 const zeyad = {
