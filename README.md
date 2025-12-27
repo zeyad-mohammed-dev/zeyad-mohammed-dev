@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Backend%20Developer;CS%20Student;Building%20APIs%20%26%20Databases;Node.js%20|%20Express%20|%20SQL%20|%20NoSQL;From%20Egypt%20🇪🇬&font=Fira%20Code&center=true&width=500&height=45&color=4b8bef&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;CS%20Student;Building%20Scalable%20Backend%20APIs;Node.js%20|%20Express%20|%20NestJS%20|%20TypeScript;SQL%20|%20NoSQL%20|%20Cloud%20Storage;From%20Egypt%20🇪🇬&font=Fira%20Code&center=true&width=600&height=45&color=4b8bef&vCenter=true&size=22&pause=1000">
 </div>
 
 <div align="center">
   
-### 🚀 Backend Developer from Egypt | ⚡ Building scalable and efficient server-side applications
+### 🚀 Backend Developer | Building scalable & secure backend systems
 
 </div>
 
@@ -26,32 +26,52 @@
 const zeyad = {
   name: 'Zeyad Mohammed',
   location: 'Sohag, Egypt 🇪🇬',
-  role: 'Aspiring Backend Developer',
-  education: 'CS Student (Higher Technological Institute)',
-  passion: ['Backend Development', 'API Design', 'Database Management'],
-  currentFocus: 'Building RESTful APIs with Node.js & Express',
-  askMeAbout: ['Node.js', 'Express', 'MongoDB', 'MySQL', 'REST APIs'],
-  motto: 'Perfection is the enemy of progress. Start small, learn consistently, and ship things.',
+  role: 'Backend Developer',
+  education: 'Computer Science Student',
+  specialization: 'Backend Development & API Architecture',
+  techStack: [
+    'Node.js',
+    'Express',
+    'NestJS',
+    'TypeScript',
+    'MongoDB',
+    'MySQL'
+  ],
+  currentFocus: [
+    'Building scalable backend systems',
+    'Clean Architecture & Modular Design',
+    'Authentication & Authorization'
+  ],
+  experienceHighlights: [
+    'RESTful API Design',
+    'JWT & OTP Authentication',
+    'Role-Based Access Control',
+    'Cloud File Uploads (AWS S3 / Cloudinary)'
+  ],
+  motto: 'Build systems that scale, secure them well, and keep the code clean.',
 };
 ```
 
-- 🔭 I'm currently building backend projects and improving my API design skills.
-- 🌱 I'm learning best practices for databases (SQL & NoSQL) and using TypeScript on the backend.
-- 👯 I'm looking to collaborate on **Open Source backend projects**.
-- 💬 Ask me about **Node.js, Express, REST APIs, database modeling**.
+- 🔭 Building real-world backend systems using **Node.js, Express, and NestJS**
+- 🌱 Deepening knowledge in **TypeScript, backend architecture, and system design**
+- 🧠 Strong focus on **security, authentication, and scalable project structure**
+- 👯 Open to collaborating on **backend-focused open source projects**
+- 💬 Ask me about **REST APIs, JWT, MongoDB, SQL, backend architecture**
 - 📫 How to reach me: **zeyadmohammed200493@gmail.com**
-- ⚡ Motto: **Progress isn’t about speed — it’s about direction. 🚀**
+- ⚡ Motto: **Build systems that scale, secure them well, and keep the code clean. 🚀**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎯 **Current Backend Arsenal**
+### 🎯 **Backend Arsenal**
 
 <div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,9 +79,9 @@ const zeyad = {
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-BF4637?style=for-the-badge&logo=mongoose&logoColor=white)
 
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6C8EBF?style=for-the-badge&logo=openapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -70,17 +90,6 @@ const zeyad = {
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-### 🎯 **Next Learning Goals**
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </div>
 
@@ -109,31 +118,63 @@ const zeyad = {
   <tr>
     <td width="50%" valign="top">
 
-### 🌟 [SarahaApp](https://github.com/zeyad-mohammed-dev/SarahaApp)
+### 🛒 [E-Commerce Backend API](https://github.com/zeyad-mohammed-dev/nestjs-ecommerce-api)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=SarahaApp&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="SarahaApp" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=nestjs-ecommerce-api&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="E-Commerce API" />
 
-**Anonymous feedback app (Saraha)**
+**Production-ready NestJS e-commerce backend**
 
-- 🚀 Built with JavaScript / Node.js
-- 🗄️ Stores and displays anonymous messages with a simple UI
-- 🔒 Ready to extend with auth & moderation
+- 🏗️ Modular NestJS architecture with clean design patterns
+- 🔐 JWT authentication + OTP email confirmation
+- 👥 Role-based authorization (User / Admin)
+- 🗄️ MongoDB + Mongoose + Repository Pattern
 
     </td>
     <td width="50%" valign="top">
 
-### 👤 [Profile Repo](https://github.com/zeyad-mohammed-dev/zeyad-mohammed-dev)
+### 🌐 [Social Media Backend API](https://github.com/zeyad-mohammed-dev/SocialApp)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=SocialApp&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="Social Media API" />
+
+**Full-featured social media REST API**
+
+- 📱 Posts, comments, likes, and friend system
+- ☁️ AWS S3 media uploads with pre-signed URLs
+- 🔒 JWT authentication with TypeScript
+- ⚡ Centralized error handling & validation
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 [Saraha - Anonymous Messaging](https://github.com/zeyad-mohammed-dev/Saraha-App)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=Saraha-App&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="Saraha App" />
+
+**Secure anonymous messaging platform**
+
+- 💬 Anonymous message delivery system
+- 🔑 JWT + OTP authentication
+- ☁️ Cloudinary file uploads
+- 🛡️ Account freeze & soft delete features
+
+    </td>
+    <td width="50%" valign="top">
+
+### 👤 [Profile Repository](https://github.com/zeyad-mohammed-dev/zeyad-mohammed-dev)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeyad-mohammed-dev&repo=zeyad-mohammed-dev&theme=nord_dark&border_color=1f6feb&bg_color=0D1117" alt="Profile Repo" />
 
 **Personal profile & portfolio**
 
-- 📝 README shows tech stack, featured projects and analytics
-- 🎯 Focused on backend projects, learning goals and progress
+- 📝 Showcases tech stack and featured projects
+- 📊 GitHub analytics and contribution graphs
+- 🎯 Backend-focused project highlights
 
-
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -205,10 +246,10 @@ timeline
             : Learned Object-Oriented Programming (OOP) with Python
     2024    : Explored Frontend Basics (HTML & CSS)
             : Discovered passion for Backend Development
-    2025    : Shifted focus to Backend with Node.js & Express
-            : Learned Databases (MySQL & MongoDB)
-            : Built RESTful APIs & real-world backend projects
-            : Exploring TypeScript & advanced backend patterns
+    2025    : Focused on Backend Development
+            : Built production-ready APIs using Node.js & NestJS
+            : Applied clean architecture & security best practices
+            : Mastered MongoDB, MySQL & cloud file storage
 
 ```
 
@@ -217,10 +258,10 @@ timeline
 📫 Let's Build Something Meaningful Together!
 
 <div align="center">
-💡 "Great things take time — just keep building and improving."
+💡 "Build systems that scale, secure them well, and keep the code clean."
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-💼 Currently focusing on backend development | 🤝 Open to collaboration & learning | 🚀 Always building, one project at a time
+💼 Backend Developer | 🤝 Open to collaboration & learning | 🚀 Building scalable backend systems
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
